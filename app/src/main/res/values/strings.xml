@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">actividad3</string>
+    <string name="registro_usuario">REGISTRO DE NUEVO USUARIO</string>
+    <string name="agregar_foto">AGREGAR FOTO</string>
+    <string name="grabar">Grabar</string>
+    <string name="fecha_nacimiento">Fecha Nac.</string>
+</resources>
